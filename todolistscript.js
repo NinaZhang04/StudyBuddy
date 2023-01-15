@@ -20,7 +20,7 @@ let awsConfig = {
     "region": "us-east-1",
     "endpoint": "http://dynamodb.us-east-1.amazonaws.com",
     "accessKeyId": "AKIARD6ATKRQDOIDNRP4", 
-    "secretAccessKey": "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"
+    "secretAccessKey": "Temporarily removed for security purposes."
 };
 AWS.config.update(awsConfig);
 
